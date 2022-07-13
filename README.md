@@ -2,13 +2,14 @@
 
 ---
 
-! [Main Page] (https://media.discordapp.net/attachments/523840430312521729/996723297238663178/unknown.png?width=945&height=471)
+![image](https://user-images.githubusercontent.com/106491131/178714025-ea1c107c-8c08-4fe4-b659-d7a3a73c750c.png)
+
 
 ---
-! [About Page] (https://cdn.discordapp.com/attachments/523840430312521729/996723554815066182/unknown.png)
+![image](https://user-images.githubusercontent.com/106491131/178714139-e639652f-68b5-4b6e-889e-878f9df93a84.png)
 
 ---
 
-! [Page] (https://cdn.discordapp.com/attachments/868275280186314782/996724205334822942/unknown.png)
+![image](https://user-images.githubusercontent.com/106491131/178714205-8b936e2d-cf56-4649-8ced-77505d1174ba.png)
 
 ### Thanks for Online Tutorials
