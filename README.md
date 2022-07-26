@@ -12,4 +12,3 @@
 
 ![image](https://user-images.githubusercontent.com/106491131/178714205-8b936e2d-cf56-4649-8ced-77505d1174ba.png)
 
-### Thanks for Online Tutorials
